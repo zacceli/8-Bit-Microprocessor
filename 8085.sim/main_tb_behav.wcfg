@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="main_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="main_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="2093124fs"></ZoomEndTime>
+      <Cursor1Time time="475000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="102"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="29" />
+   <wvobject fp_name="/main_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/sw" type="array">
+      <obj_property name="ElementShortName">sw[15:0]</obj_property>
+      <obj_property name="ObjectShortName">sw[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led" type="array">
+      <obj_property name="ElementShortName">led[15:0]</obj_property>
+      <obj_property name="ObjectShortName">led[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/seg" type="array">
+      <obj_property name="ElementShortName">seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/an" type="array">
+      <obj_property name="ElementShortName">an[3:0]</obj_property>
+      <obj_property name="ObjectShortName">an[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/btnU" type="logic">
+      <obj_property name="ElementShortName">btnU</obj_property>
+      <obj_property name="ObjectShortName">btnU</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/btnL" type="logic">
+      <obj_property name="ElementShortName">btnL</obj_property>
+      <obj_property name="ObjectShortName">btnL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/btnC" type="logic">
+      <obj_property name="ElementShortName">btnC</obj_property>
+      <obj_property name="ObjectShortName">btnC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/btnR" type="logic">
+      <obj_property name="ElementShortName">btnR</obj_property>
+      <obj_property name="ObjectShortName">btnR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U5/D" type="array">
+      <obj_property name="ElementShortName">D[7:0]</obj_property>
+      <obj_property name="ObjectShortName">D[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U5/D_Alu" type="array">
+      <obj_property name="ElementShortName">D_Alu[7:0]</obj_property>
+      <obj_property name="ObjectShortName">D_Alu[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U5/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U5/La" type="logic">
+      <obj_property name="ElementShortName">La</obj_property>
+      <obj_property name="ObjectShortName">La</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U5/Ea" type="logic">
+      <obj_property name="ElementShortName">Ea</obj_property>
+      <obj_property name="ObjectShortName">Ea</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U5/CLR" type="logic">
+      <obj_property name="ElementShortName">CLR</obj_property>
+      <obj_property name="ObjectShortName">CLR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U5/Q" type="array">
+      <obj_property name="ElementShortName">Q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U5/Q_tri" type="array">
+      <obj_property name="ElementShortName">Q_tri[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Q_tri[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/A" type="array">
+      <obj_property name="ElementShortName">A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/B" type="array">
+      <obj_property name="ElementShortName">B[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/Op" type="array">
+      <obj_property name="ElementShortName">Op[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Op[1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/Cin" type="logic">
+      <obj_property name="ElementShortName">Cin</obj_property>
+      <obj_property name="ObjectShortName">Cin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/Result" type="array">
+      <obj_property name="ElementShortName">Result[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Result[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/Cout" type="logic">
+      <obj_property name="ElementShortName">Cout</obj_property>
+      <obj_property name="ObjectShortName">Cout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/ACout" type="logic">
+      <obj_property name="ElementShortName">ACout</obj_property>
+      <obj_property name="ObjectShortName">ACout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/sum" type="array">
+      <obj_property name="ElementShortName">sum[7:0]</obj_property>
+      <obj_property name="ObjectShortName">sum[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/borrow" type="logic">
+      <obj_property name="ElementShortName">borrow</obj_property>
+      <obj_property name="ObjectShortName">borrow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/carry_out" type="logic">
+      <obj_property name="ElementShortName">carry_out</obj_property>
+      <obj_property name="ObjectShortName">carry_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/U7/ac_out" type="logic">
+      <obj_property name="ElementShortName">ac_out</obj_property>
+      <obj_property name="ObjectShortName">ac_out</obj_property>
+   </wvobject>
+</wave_config>

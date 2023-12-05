@@ -1,0 +1,2 @@
+u_ila_0.vhd,vhdl,xil_defaultlib,../../../../8085.srcs/sources_1/ip/u_ila_0/sim/u_ila_0.vhd,incdir="../../../../8085.srcs/sources_1/ip/u_ila_0/hdl/verilog"
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,38 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 84bb9bc5a0f54173be8b75092dfc2699 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot main_tb_behav xil_defaultlib.main_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling module xil_defaultlib.glbl
+Compiling architecture behavioral of entity xil_defaultlib.register_select_unit [register_select_unit_default]
+Compiling architecture behavioral of entity xil_defaultlib.mux_10to1_with_enable [mux_10to1_with_enable_default]
+Compiling architecture behavioral of entity xil_defaultlib.demux_10to1_with_enable [demux_10to1_with_enable_default]
+Compiling architecture behavioral of entity xil_defaultlib.eight_bit_register_general [eight_bit_register_general_defau...]
+Compiling architecture behavioral of entity xil_defaultlib.Counter_Register [counter_register_default]
+Compiling architecture behavioral of entity xil_defaultlib.register_block [register_block_default]
+Compiling architecture behavioral of entity xil_defaultlib.internal_addr_latch [internal_addr_latch_default]
+Compiling architecture behavioral of entity xil_defaultlib.tri_buffer [tri_buffer_default]
+Compiling architecture behavioral of entity xil_defaultlib.addr_data_buffer_unit [addr_data_buffer_unit_default]
+Compiling architecture behavioral of entity xil_defaultlib.instruction_reg [instruction_reg_default]
+Compiling architecture behavioral of entity xil_defaultlib.accumulator [accumulator_default]
+Compiling architecture behavioral of entity xil_defaultlib.temp_reg [temp_reg_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU [alu_default]
+Compiling architecture behavioral of entity xil_defaultlib.ram [ram_default]
+Compiling architecture behavioral of entity xil_defaultlib.address_latch [address_latch_default]
+Compiling architecture behavioral of entity xil_defaultlib.controller [controller_default]
+Compiling architecture behavioral of entity xil_defaultlib.seven_segment_driver [seven_segment_driver_default]
+Compiling architecture u_ila_0_arch of entity xil_defaultlib.u_ila_0 [u_ila_0_default]
+Compiling architecture behavioral of entity xil_defaultlib.main [main_default]
+Compiling architecture behavioral of entity xil_defaultlib.main_tb
+Built simulation snapshot main_tb_behav

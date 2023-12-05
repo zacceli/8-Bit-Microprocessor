@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../8085.srcs/sources_1/new/addr_data_buffer_unit.vhd" \
+"../../../../8085.srcs/sources_1/new/tri_buffer.vhd" \
+"../../../../8085.srcs/sim_1/new/ad_tb.vhd" \
+
+# Do not sort compile order
+nosort

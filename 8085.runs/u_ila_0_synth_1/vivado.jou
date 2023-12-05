@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Jun 24 09:44:59 2023
+# Process ID: 15504
+# Current directory: C:/Users/Zacc/Documents/8085/8085.runs/u_ila_0_synth_1
+# Command line: vivado.exe -log u_ila_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source u_ila_0.tcl
+# Log file: C:/Users/Zacc/Documents/8085/8085.runs/u_ila_0_synth_1/u_ila_0.vds
+# Journal file: C:/Users/Zacc/Documents/8085/8085.runs/u_ila_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source u_ila_0.tcl -notrace
